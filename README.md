@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @garrettdsparks
 - 👀 I’m interested in IoT, AI, and Industry 4.0.
-- 🌱 I’m currently working on my portfolio and all projects listed.
+- 🌱 I’m currently working on my portfolio and my Senior Design Project
 - 📫 Find me on LinkedIn and Insta @garrettdsparks
 - 🔙 Formerly known as @gdsparks52
 
